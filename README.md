@@ -36,7 +36,7 @@ This project focuses on creating a clean, attractive, and intuitive food deliver
 
 ## 🔗 Figma Prototype
 
-Paste your Figma prototype link here.
+https://www.figma.com/design/0WVHUCTwOVP48CjHD9t0As/BiteGo-Food-Delivery-%E2%80%94-Wireframes?node-id=0-1&t=daTg9ZYO9zQ7sr2Q-1
 
 ## 👩‍🎨 Project Type
 
